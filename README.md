@@ -16,4 +16,8 @@ https://safebrowsing.google.com/safebrowsing/report_phish/?tpl=mozilla&hl=en
 
 | | Service Health https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth |
 
-| | Endpoint ASR https://endpoint.microsoft.com/#blade/Microsoft_Intune_Workflows/SecurityManagementMenu/asr |
+| | Endpoint ASR https://endpoint.microsoft.com/#blade/Microsoft_Intune_Workflows/SecurityManagementMenu/asr | |
+
+| | ASR detections | |
+
+|  | Log Analytics | |
